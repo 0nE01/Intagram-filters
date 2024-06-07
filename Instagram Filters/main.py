@@ -56,7 +56,7 @@ class InstagramFilters():
         return sketch
 
     def detile_enhance(self,sigma_s=10,sigma_r=0.15) -> Image:
-        # filter to have more details.
+        # Filter to have more details.
         image = cv.imread(self.image_path)
         enhanced = cv.detailEnhance(
         image,
@@ -71,7 +71,7 @@ class InstagramFilters():
         channels = cv.split(image)
         # Create a clahe object.
         clahe = cv.createCLAHE(clipLimit=clipLimit,tileGridSize=tileGridSize)
-        # Use 'apply' method on channels and put them in this list.
+        # Use 'apply' method on channels and put them in list.
         clahe_channels = []
         for channel in channels :
             clahe_channels.append(clahe.apply(channel))
@@ -81,7 +81,7 @@ class InstagramFilters():
         return final_image
         
     def LookupTable(self,x, y) -> Image:
-        # Creating a LookupTable(lut) for "warmer_img" and "colder_img" function.
+        # Creating a LookupTable(lut) for "warmer_img" function.
         spline = UnivariateSpline(x, y)
         return spline(range(256))
 
