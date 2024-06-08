@@ -77,7 +77,6 @@ class InstagramFilters():
             clahe_channels.append(clahe.apply(channel))
         # Merge channels and get the final image.
         final_image = cv.merge(clahe_channels)
-        
         return final_image
         
     def LookupTable(self,x, y) -> Image:
