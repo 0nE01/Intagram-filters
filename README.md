@@ -14,7 +14,9 @@
 - Great for understanding lookuptabels(lut) and how you can use them 👀
 - Great for making you images better by using the filters 📷
 - Great for chilling and seeing the results of each effect 😊
-##### You can see resulte of each algorithms :
+<br/>
+
+##### You can see resulte of each algorithms 🔍 :
 |  Algorithms  | 
 | ------------- | 
 | [Grayscal Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#grayscal-image) | 
@@ -70,3 +72,6 @@
 
 10. ### Sepia Image
 ![Screenshot (49)](https://github.com/0nE01/Intagram-filters/assets/127254729/a23abbff-baad-42a5-a177-785727a25bb7)
+
+## Spread the word
+If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
