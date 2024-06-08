@@ -17,18 +17,18 @@
 ##### You can see resulte of each algorithms :
 |  Algorithms  | 
 | ------------- | 
-| Grayscal Image | 
-| Brightness/Normalize  |
-| Sharp Image | 
-| Pencil Image |
-| Sketch Image |
-| More Detiled Image |
-| Clahe/Contrast Image |
-| Warm Image |
-| Cold Image | 
-| Invert Image |
-| Stylization Image |
-| Sepia Image| 
+| [Grayscal Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#grayscal-image) | 
+| [Brightness/Normalize](https://github.com/0nE01/Intagram-filters/blob/main/README.md#brightnessnormalize)  |
+| [Sharp Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#sharp-image) | 
+| [Pencil Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#pencil-image) |
+| [Sketch Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#sketch-image) |
+| [More Detiled Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#more-detiled-image) |
+| [Clahe/Contrast Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#clahecontrast-image) |
+| [Warm Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#warm-image) |
+| [Cold Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#cold-image) | 
+| [Invert Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#invert-image) |
+| [Stylization Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#stylization-image) |
+| [Sepia Image](https://github.com/0nE01/Intagram-filters/blob/main/README.md#sepia-image)| 
 
 
 
