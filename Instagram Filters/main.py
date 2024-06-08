@@ -132,7 +132,7 @@ class InstagramFilters():
         image = cv.stylization(image,sigma_s=sigma_s,sigma_r=sigma_r)
         return image
     
-    def Sepia(self) -> Image:
+    def sepia(self) -> Image:
         image = cv.imread(self.image_path)
         # Convert the image into float type to prevent loss during operations.
         image_float = np.array(image, dtype=np.float64) 
