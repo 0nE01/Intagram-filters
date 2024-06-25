@@ -3,17 +3,16 @@
 
 <img src="https://github.com/0nE01/Intagram-filters/assets/127254729/dcb45919-1f98-484a-90f0-a0aec662a60b" width="1100" height="400">
 
-  Have you ever wondered how Instagram's filters can change your images and make them look better ? 
-  Lucky you found this repo that can answer you curiosity.
+  ### Have you ever wondered how Instagram's filters can change your images and make them look better ? you are at right place this repo can answer your curiosity.✨
   
-  This repo is all about how Instagram's filters work and how we can create them using opencv.
+  ### This repo is all about how Instagram's filters work and how we can create them using opencv.😊
   
   ### This project is :
-- Great for improving your opencv skills ✨
-- Great for learning some new opencv algorithms ⚡
-- Great for understanding LookUpTabels(lut) and how you can use them 👀
-- Great for making you images better by using the filters 📷
-- Great for chilling and seeing the results of each effect 😊
+-  **Great for improving your opencv skills** ✨
+-  **Great for learning some new opencv algorithms** ⚡
+-  **Great for understanding LookUpTabels(lut) and how you can use them** 👀
+-  **Great for making you images better by using the filters** 📷
+-  **Great for chilling and seeing the results of each effect** 😊
 
 ### You can see results of each algorithm🔍 :
 |  Algorithms  | 
