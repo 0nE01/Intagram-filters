@@ -73,4 +73,4 @@
 ![Screenshot (49)](https://github.com/0nE01/Intagram-filters/assets/127254729/a23abbff-baad-42a5-a177-785727a25bb7)
 
 ## Spread the word
-If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
+### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
